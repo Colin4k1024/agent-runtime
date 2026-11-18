@@ -6,3 +6,5 @@
 - [3. Agent部署](3.%20Agent部署.md)
 - [4. Agent接入](4.%20Agent接入.md)
 - [5. 安全模块](5.%20安全模块.md)
+
+- [6. 全集团AgentRuntime演进架构与路线图](6.%20全集团AgentRuntime演进架构与路线图.md)
